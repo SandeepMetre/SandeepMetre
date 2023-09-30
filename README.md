@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandeepMetre
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web-Development
+- 🌱 I’m currently learning SRE
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me E-mail:sandeepmehtre111@gmail.com
 
